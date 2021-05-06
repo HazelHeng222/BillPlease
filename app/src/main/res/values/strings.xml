@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="txtAmt">Amount</string>
+    <string name="edAmt">($)</string>
+    <string name="txtNumofPax">Number of Pax</string>
+    <string name="txtDiscount">Discount</string>
+    <string name="edDiscount">(%)</string>
+    <string name="radPaynow">PayNow</string>
+    <string name="radCash">Cash</string>
+    <string name="togSC">NO SVS</string>
+    <string name="togGst">GST</string>
+    <string name="togSplit">Split</string>
+    <string name="togReset">Reset</string>
+
+
+</resources>
